@@ -1,3 +1,13 @@
+
+
+# Dificuldades
+
+Minha maior dificuldade neste projeto foi aprendar a usar o Angular, pois é uma ferramenta totalmente nova da que estou acostumado e aprendi em 3 dias o necessario para conseguir fazer a aplicação rodar perfeitamente. 
+
+# Funcionar corretamente 
+
+Lembre-se de rodar o `npm install` na pasta principal do projeto para instalar o node_modules para a aplicação rodar completamente
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
