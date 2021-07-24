@@ -1,0 +1,49 @@
+{
+  "movies": [
+    {
+      "title": "Meu Amigo Totoro",
+      "overview": "As irmãs Satsuki e Mei se mudam para o campo para ficar mais perto do hospital onde sua mãe está internada. Lá conhecem os Totoros, adoráveis criaturas místicas e alegres...",
+      "date": "8 de março de 1995",
+      "genre": "aventura, fantasia e  drama",
+      "director": "Hayao Miyazaki",
+      "cast": "Chika Sakamoto, Noriko Hidaka e muito mais",
+      "id": 5
+    },
+    {
+      "title": "IT: A coisa",
+      "overview": "It é baseado no romance de Stephen King e \"a coisa\" tem como o seu principal disfarce a forma de palhaço gerando a morte de algumas crianças, o que gera uma corrida para destruir esse ser maligno.",
+      "date": "7 de setembro de 2017",
+      "genre": "Terror e Suspense",
+      "director": "Andy Muschietti",
+      "cast": "Jaeden Lieberher,  Bill Skarsgård,  Finn Wolfhard, Sophia Lillis",
+      "id": 6
+    },
+    {
+      "title": "It: Capítulo Dois",
+      "overview": "Em 2016, Vinte e sete anos depois, em Derry (Maine) Adrian Mellon e seu namorado Don Hagarty, são brutalmente espancados por um grupo de adolescentes homofóbicos...",
+      "date": "6 de setembro de 2019",
+      "genre": "Terror",
+      "director": "Andy Muschietti",
+      "cast": "James McAvoy, Jessica Chastain, Jay Ryan, Bill Hader, Isaiah Mustafa, James Ransone, Andy Bean, Bill Skarsgård",
+      "id": 7
+    },
+    {
+      "title": "V de vingança",
+      "overview": "No final da década de 2020, o mundo está em crise e em guerra; os Estados Unidos não são mais uma superpotência como consequência de uma guerra civil, enquanto uma pandemia mortal do \"vírus de Santa Maria\" assola o continente europeu...",
+      "date": "7 de abril de 2006",
+      "genre": "Ação, Suspense  e Drama",
+      "director": "James McTeigue",
+      "cast": "Natalie Portman, Hugo Weaving, Stephen Rea, John Hurt",
+      "id": 8
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "overview": "12 anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri enquanto eles vagavam pelo mundo expandido de Pandora,",
+      "date": "15 de dezembro de 2022",
+      "genre": "Ficção científica",
+      "director": "James Cameron",
+      "cast": "Sam Worthington, Zoë Saldaña, Stephen Lang, Sigourney Weaver",
+      "id": 9
+    }
+  ]
+}
