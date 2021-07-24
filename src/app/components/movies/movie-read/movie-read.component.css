@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+}
+.esp{
+    padding-right: 20px;
+    text-align: left;
+}
+.edit {
+    margin-right: 10px;
+}
+.edit > i{
+    color: #d9cd26;
+}
+
+.delete > i{
+    color: #e35e6b;
+}
